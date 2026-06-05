@@ -36,6 +36,21 @@ export default {
           { text: 'Geruchlos gedämpfter Varoma-Kabeljau', link: '/gruen-varoma-kabeljau' }
         ]
       },
+      {
+        text: '🍚 Grundrezepte & Kochtechniken',
+        collapsed: false,
+        items: [
+          { text: 'Reis kochen', link: '/basis-reis' },
+          { text: 'Reisbrei kochen', link: '/basis-reisbrei' },
+          { text: 'Bulgur kochen', link: '/basis-bulgur' },
+          { text: 'Quinoa kochen', link: '/basis-quinoa' },
+          { text: 'Nudeln kochen', link: '/basis-nudeln' },
+          { text: 'Eier kochen', link: '/basis-eier' },
+          { text: 'Grießbrei kochen', link: '/basis-griessbrei' },
+          { text: 'Kartoffeln kochen', link: '/basis-kartoffeln' },
+          { text: 'Gemüse dämpfen', link: '/basis-gemuese-dampf' }
+        ]
+      },
       { text: '💧 SOS-Getränke & Hydration', link: '/sos-getraenke' }
     ]
   }
